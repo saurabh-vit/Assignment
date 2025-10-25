@@ -1,0 +1,6 @@
+,requests_per_idfa,requests_per_idfa,idfa_ip_ratio,idfa_ip_ratio,idfa_ua_ratio,idfa_ua_ratio,impressions_per_idfa,impressions_per_idfa,ivt,ivt
+,mean,max,mean,max,mean,max,mean,max,mean,max
+app_category,,,,,,,,,,
+Early IVT,1.035,1.163,1.0,1.001,1384.345,16279.72,0.0,0.0,0.009,0.017
+Late IVT,1.066,1.486,1.0,1.001,4417.902,42557.25,0.0,0.0,0.004,0.006
+No IVT,1.031,1.081,1.0,1.0,815.571,2401.619,0.0,0.0,0.0,0.0
